@@ -1,0 +1,42 @@
+.box{
+    display: none;
+}
+.sub_vidoe_section .box {
+    margin: 15px 15px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+.video-metabox-seting {
+    vertical-align: middle;
+    display: inline-block;
+    width: 49%;
+}
+div#youtube_featurevideo .video-metabox-seting:nth-child(2), 
+div#vimo_featurevideo .video-metabox-seting:nth-child(2) {
+    text-align: right;
+}
+.motif_shop_popop button.video {
+    background: none;
+    left: -6px;
+    top: -10px;
+    position: absolute;
+}
+.motif_gall_images {
+    position: absolute;
+    left: 0px;
+    top: 345px;
+    right: 0px;
+    bottom: 0px;
+    width: 45%;
+}
+.motif_gall_images ul {
+    margin: 0px;
+}
+.motif_gall_images ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+.motif_gall_images ul li img {
+    width: 70px;
+    height: 70px;
+}
